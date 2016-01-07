@@ -1,0 +1,22 @@
+{
+	"name": "[projectname]",
+	"version": "0.0.0",
+	"description": "[projectdescription]",
+	"license": "MIT",
+	"repository": "rodson/[projectname]",
+	"author": {
+		"name": "Rodson Luo",
+		"email": "rodsonluo@gmail.com",
+		"url": "www.rodsonluo.com"
+	},
+	"engines": {
+		"node": ">=0.12.0"
+	},
+	"scripts": {
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+	]
+}
